@@ -6,7 +6,7 @@
 
 * I Box consegnati all'Hub dai vari corrieri attraverso il **Totem** sono consegnati ai laboratori dei building mediante l'impiego di **Selfdriving Trains**, uno per ciascun percorso
 
-![]{https://github.com/angelocroatti/clinical-lab-project-example/blob/main/imgs/hub-schema.svg}
+![](../main/imgs/hub-schema.svg)
 
 
 * Ciascun treno può essere composto da un numero arbitrario di **Container**
